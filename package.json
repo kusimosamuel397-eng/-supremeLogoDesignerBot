@@ -1,0 +1,18 @@
+{
+  "name": "supreme-logo-designer-bot",
+  "version": "1.0.0",
+  "description": "AI Logo Generator Telegram Bot",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "openai": "^4.55.4",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
